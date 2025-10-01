@@ -1,0 +1,58 @@
+Privacy Policy for "VPN for Friends"Last Updated: July 20, 2024Welcome to "VPN for Friends" 
+(hereinafter "Application," "Service," "we," "us," "our")! We, Playeverywhere, value your privacy 
+and are committed to protecting your data. This Privacy Policy explains what minimal information 
+we process for the operation of our VPN service, how we protect it, and your rights regarding this 
+information.1. What Data We Process and WhyWe adhere to the principle of minimal data collection 
+and process only the information that is absolutely necessary for the provision and functioning of 
+the "VPN for Friends" VPN service.•Information necessary to establish a VPN connection:•Your VPN 
+client's public key: We receive your WireGuard public key, which is generated within the 
+Application, to authenticate your device on our server and provide you with the VPN configuration. 
+This key does not personally identify you without the corresponding private key, which is stored 
+only on your device.•Client IP address assigned by the server: Our server assigns your VPN client 
+a temporary internal IP address within the VPN network for the duration of the session.•Temporary 
+connection information: To establish and maintain a VPN connection, and to route your internet 
+traffic through our servers, your original IP address and destination IP addresses are temporarily 
+processed by our servers solely during an active VPN session. This information is not logged, not 
+stored, and is discarded immediately after your VPN session ends or the connection is 
+terminated.We do not collect and do not request:•Your name, email address, or other personal 
+contact information to use the Application.•Data about your location.•Information about your 
+device beyond what is minimally necessary to establish a VPN connection (e.g., OS type for 
+protocol compatibility).2. How We Use Processed InformationInformation processed during your VPN 
+session is used exclusively for the following purposes:•Providing the VPN Service: To establish, 
+maintain, and correctly function a secure VPN connection, and to route your internet traffic 
+through our servers.•Authentication: To verify your right to use the Service using the provided 
+public key.•Ensuring Service Stability: For basic server health monitoring (e.g., load) in an 
+aggregated and anonymous manner, without linking to specific users or their activity.3. No-Logs 
+PolicyWe adhere to a strict no-logs policy. This means we do not collect, store, or log:•Your real 
+(original) IP address.•DNS queries you make while using the VPN.•Any information about the 
+websites you visit or applications you use.•The content of your internet traffic.•Connection 
+timestamps or session duration associated with your identifier.All information necessary for 
+traffic routing exists only in the server's temporary memory and is deleted when the VPN session 
+ends.4. Third-Party Services and Data TransferThe "VPN for Friends" Application does not use 
+third-party services for analytics, advertising, tracking, or any other purposes that could lead 
+to the collection or transfer of your data to third parties. We do not sell, trade, or otherwise 
+transfer any information about you or your use of the Service to third parties, except where it 
+may be strictly necessary to comply with applicable law upon a lawful and valid request from 
+authorized government authorities (e.g., by court order). We will make every effort to protect 
+your privacy even in such situations, acting within the law.5. Data SecurityWe use the WireGuard 
+protocol, which is a modern and secure VPN protocol that ensures the encryption of your traffic. 
+We take reasonable technical measures to protect the infrastructure of our Service. However, it is 
+important to understand that no method of transmission over the Internet or method of electronic 
+storage is 100% secure.6. Data RetentionAs stated above, we do not store logs of your activity or 
+personal data. Information necessary to establish a VPN connection is processed solely in 
+real-time and is not retained after the session ends.7. Your Rights (for users in the EU/EEA and 
+other regions with similar legislation)Given that we do not collect or store your personal data, 
+the exercise of some rights may be limited by the absence of such data. However, you always have 
+the right to:•Request information about what categories of data are processed for the functioning 
+of the service.•Withdraw consent to use the service by simply discontinuing its use.If you have 
+concerns about data processing despite our minimization policy, please contact us.To exercise 
+these rights or if you have questions, please contact us at: playeverywhere999@gmail.com.8. 
+Children's PrivacyOur Service is not intended for use by individuals under the age of 18 (or the 
+age of majority in your jurisdiction). We do not knowingly collect any information from 
+individuals under this age. If you believe that we have inadvertently received information from a 
+minor, please contact us.9. Changes to this Privacy PolicyWe may update this Privacy Policy from 
+time to time. We will notify you of any material changes by posting the new Privacy Policy within 
+the Application and updating the "Last Updated" date at the top of this Policy. You are advised to 
+review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are 
+effective when they are posted.10. Contact InformationIf you have any questions or suggestions 
+regarding our Privacy Policy, please contact us:Playeverywhere Email: playeverywhere999@gmail.com
