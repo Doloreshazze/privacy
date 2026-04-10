@@ -11,46 +11,40 @@ This Privacy Policy explains what data may be processed in our applications and 
 
 This Privacy Policy applies to all mobile applications published under the Playeverywhere developer account on Google Play or other platforms (“Applications”).
 
-Some Applications may contain advertising. Others may function fully offline. Data processing may differ depending on the type of Application.
+Some Applications may contain advertising, while others may function fully offline. Data processing may differ depending on the specific Application.
 
 2. Data We Collect
+
 A. Data Collected by the Application Itself
 
 Our Applications:
 
-Do not require account registration
-
-Do not collect names, email addresses, phone numbers
-
-Do not collect precise location data
-
-Do not access personal files or contacts
+- Do not require account registration  
+- Do not collect names, email addresses, or phone numbers  
+- Do not collect precise location data  
+- Do not access personal files or contacts  
 
 We may process limited technical information necessary for functionality, such as:
 
-Device type
-
-Operating system version
-
-App version
-
-Basic crash diagnostics (if provided automatically by the platform)
+- Device type  
+- Operating system version  
+- App version  
+- Basic crash diagnostics (if provided automatically by the platform)  
 
 This information is not used to identify individual users.
 
 B. Advertising (Google AdMob)
 
-Some Applications display advertisements using Google AdMob.
+Some of our Applications may display advertisements using Google AdMob.
 
-AdMob may automatically collect certain information to provide ads, including:
+However, certain Applications — including this one — currently do not display ads and do not collect data for advertising purposes.
 
-Device identifiers (e.g., Advertising ID)
+If advertising is enabled in a specific Application, AdMob may automatically collect certain information to provide ads, including:
 
-IP address (for general location estimation)
-
-Device information
-
-Ad interaction data
+- Device identifiers (e.g., Advertising ID)  
+- IP address (for general location estimation)  
+- Device information  
+- Ad interaction data  
 
 This data is collected and processed by Google, not by Playeverywhere.
 
@@ -61,7 +55,7 @@ Google Privacy Policy: https://policies.google.com/privacy
 
 For users in the European Economic Area (EEA), United Kingdom, or Switzerland:
 
-A consent form may be shown before ads are displayed.
+If an Application includes advertising, a consent form may be shown before ads are displayed.
 
 You can choose whether to allow personalized ads.
 
@@ -75,13 +69,11 @@ Some Applications (such as games) may be suitable for children.
 
 We do not knowingly collect personal data from children.
 
-For Applications directed to children:
+For Applications that include advertising and are directed to children:
 
-Personalized advertising is disabled.
-
-Only non-personalized ads (if any) may be shown.
-
-No behavioral profiling is performed by us.
+- Personalized advertising is disabled  
+- Only non-personalized ads (if any) may be shown  
+- No behavioral profiling is performed by us  
 
 If you believe a child has provided personal data directly to us, please contact us and we will take appropriate action.
 
@@ -105,29 +97,25 @@ However, no electronic system is completely secure, and we cannot guarantee abso
 
 We do not store personal data on our own servers.
 
-Advertising partners may retain data according to their own privacy policies.
+Third-party services (such as advertising providers, if used) may retain data according to their own privacy policies.
 
 8. Your Rights (EU/EEA Users)
 
 Under GDPR, you may have the right to:
 
-Request access to your personal data
+- Request access to your personal data  
+- Request deletion or restriction  
+- Withdraw consent  
+- Lodge a complaint with a supervisory authority  
 
-Request deletion or restriction
-
-Withdraw consent
-
-Lodge a complaint with a supervisory authority
-
-Because we do not directly collect identifiable personal data, requests should generally be directed to Google (for advertising-related data).
+Because we do not directly collect identifiable personal data, requests should generally be directed to the relevant third-party provider (e.g., Google, if advertising is used).
 
 9. Third-Party Services
 
 Our Applications may use:
 
-Google Play Services
-
-Google AdMob
+- Google Play Services  
+- Google AdMob (only in Applications where advertising is enabled)  
 
 These services operate under their own privacy policies.
 
@@ -138,5 +126,5 @@ Changes will be reflected by updating the “Last Updated” date.
 
 11. Contact
 
-Playeverywhere
+Playeverywhere  
 Email: playeverywhere999@gmail.com
